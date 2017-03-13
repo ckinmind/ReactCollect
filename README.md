@@ -29,3 +29,9 @@
 |[redux-tutorial中文翻译](https://github.com/react-guide/redux-tutorial-cn#redux-tutorial)| 一个简短的redux教程 | ✔✔✔ |
 |[Redux 入门教程](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)| 【阮一峰】redux教程，有3篇| ✔✔✔ |
 |[Redux 简明教程](https://github.com/kenberkeley/redux-simple-tutorial)|redux莞式教程，很好的教程  | ✔✔✔✔ |
+
+##MobX文档教程
+|  教程 |  说明 | 评价  |
+| ------------ | ------------ | ------------ |
+|[MobX 官方文档](https://mobx.js.org/best/decorators.html)|MobX官方文档 | ✔✔✔✔ |
+|[MobX 中文文档](https://gismanli.gitbooks.io/mobx-zh/)|MobX官方文档的中文翻译  | ✔✔✔✔ |
